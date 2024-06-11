@@ -56,14 +56,14 @@ export default function Home() {
           <div className="flex justify-center pt-16">
             <Link
               href="/projects"
-              className="text-2xl font-semibold inline-flex border-black border-b-2 "
+              className="text-xl font-semibold inline-flex border-black border-b-2 "
             >
               View More Projects
               <Image
                 src="assets/arrow-next.svg"
                 alt="next arrow"
-                height={24}
-                width={36}
+                height={20}
+                width={28}
               />
             </Link>
           </div>
@@ -146,14 +146,14 @@ export default function Home() {
           <div className="flex justify-center pt-12">
             <Link
               href="/wp-projects"
-              className="text-2xl font-semibold inline-flex border-black border-b-2 "
+              className="text-xl font-semibold inline-flex border-black border-b-2 "
             >
               View More Projects
               <Image
                 src="assets/arrow-next.svg"
                 alt="next arrow"
-                height={24}
-                width={36}
+                height={20}
+                width={28}
               />
             </Link>
           </div>

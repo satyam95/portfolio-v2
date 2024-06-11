@@ -21,8 +21,8 @@ const FullProjectShowcase = ({
     <div className="relative">
       <div className={`absolute w-full h-4/5 rounded-2xl ${bgClass !== "" ? bgClass : "bg-gray-300"}`}></div>
       <div className="p-5 md:p-8 xl:p-10 relative">
-        <div className="flex justify-between items-start">
-          <div className="sm:pl-24 lg:pl-32 xl:pl-40">
+        <div className="flex justify-between items-start pb-6">
+          <div className="sm:pl-24 lg:pl-32 xl:pl-12">
             <h3 className="text-lg sm:text-2xl font-semibold text-white">{title}</h3>
             <p className="text-base sm:text-lg font-light text-white max-w-lg">
               {description}

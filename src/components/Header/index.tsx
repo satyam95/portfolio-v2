@@ -56,7 +56,11 @@ const Header = () => {
             </nav>
           </div>
           <div className="bg-black rounded-2xl">
-            <Link href="/assets/satyam_resume.pdf" className="flex items-center py-1.5 px-3 xl:px-5  gap-1">
+            <Link
+              href="/assets/Satyam_FDE.pdf"
+              target="_blank"
+              className="flex items-center py-1.5 px-3 xl:px-5  gap-1"
+            >
               <Image
                 src="/assets/document-white.svg"
                 alt="down arrow"
@@ -88,7 +92,11 @@ const Header = () => {
               </div>
             </Link>
             <div className="bg-black rounded-2xl">
-              <Link href="/assets/satyam_resume.pdf" className="flex items-center py-1 px-3  gap-1">
+              <Link
+                href="/assets/Satyam_FDE.pdf"
+                target="_blank"
+                className="flex items-center py-1 px-3  gap-1"
+              >
                 <Image
                   src="/assets/document-white.svg"
                   alt="down arrow"
