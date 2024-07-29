@@ -57,7 +57,7 @@ const Header = () => {
           </div>
           <div className="bg-black rounded-2xl">
             <Link
-              href="/assets/Satyam_FDE.pdf"
+              href="/assets/Satyam_frontend.pdf"
               target="_blank"
               className="flex items-center py-1.5 px-3 xl:px-5  gap-1"
             >
@@ -93,7 +93,7 @@ const Header = () => {
             </Link>
             <div className="bg-black rounded-2xl">
               <Link
-                href="/assets/Satyam_FDE.pdf"
+                href="/assets/Satyam_frontend.pdf"
                 target="_blank"
                 className="flex items-center py-1 px-3  gap-1"
               >
